@@ -7,7 +7,7 @@ sudo apt-get install git
 ```
 Clone the repository
 ```bash
-git clone https://github.com/danny270793/Arguments.git
+git clone https://github.com/danny270793/PythonArguments.git
 ```
 Enter to the folder and install it on python 2
 ```bash
